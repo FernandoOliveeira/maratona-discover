@@ -163,7 +163,7 @@ header {
     display: block;
     width: 100%; 
 
-    /* Caso aja algum elemento "transbordando" da tela, utiliza-se o overflow para ajustar a rolagem da tela */
+    /* Caso haja algum elemento "transbordando" da tela, utiliza-se o overflow para ajustar a rolagem da tela */
     overflow-x: auto;
 }
 #data-table {    
